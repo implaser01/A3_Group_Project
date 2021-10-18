@@ -1,2 +1,4 @@
-# A3_Group_Project
-Group A3 Final Group Project 
+# Executive Summary
+Our best model is model6.
+
+It has the highest R^2 value of 0.306, meaning that 30.6% of the variance in the natural logarithm of price_4_nights can be explained by the independent variables in the model. The factors which influence price_4_nights include the property type, which is split into the following categories: entire rental unit, private room in rental unit, private room in residential home, and other. All of these factors are statistically significant at the 95% level of confidence. Other variables included in the model are the review score rating, number of bedrooms, number of beds, the number of people the Airbnb can accommodate, the number of bathrooms; all of which are also significant. The last factors which influence the price for 4 nights are the ability to book instantly, and the availability. These are statistically significant at the 95% level of confidence, however, have a smaller impact on the price for 4 nights compared to the other variables.
